@@ -1,0 +1,6 @@
+# This file store company name and its stock name
+
+# Company                 stock
+  NVIDIA Corporation      NVDA
+  Intel                   INTC
+  Qualccom                QCOM
