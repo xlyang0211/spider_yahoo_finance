@@ -1,6 +1,14 @@
 # This file store company name and its stock name
 
 # Company                 stock
-  NVIDIA Corporation      NVDA
+  NVIDIA                  NVDA
   Intel                   INTC
   Qualccom                QCOM
+  Microsoft               MSFT
+  Apple                   AAPL
+  Google                  GOOG
+  Yahoo                   YHOO
+  Facebook                FB
+  Twitter                 TWER
+  Amazon                  AMZN
+  Linkedin                LNKD
